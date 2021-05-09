@@ -1,7 +1,9 @@
 <h1 align="center">
 	School🏫 Projects🎒
 </h1>
+
 📌 Projects I made for Computer Science in my 4th and 6th grades, might be one of my first projects🤩
+
 
 📍 [My First Portfolio](https://abhiramready.github.io/School-Projects/First%20Portifolio%20Website/MAIN.HTML)
 
